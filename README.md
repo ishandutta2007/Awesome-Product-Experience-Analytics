@@ -62,37 +62,37 @@ Below is a comparative breakdown of top commercial Product Experience Analytics 
 
 Below are top open-source product and web analytics projects, sorted by **GitHub Star Count (Descending)**:
 
-1. 🌟 **[PostHog](https://github.com/posthog/posthog)** [![GitHub stars](https://img.shields.io/github/stars/posthog/posthog?style=social&color=white)](https://github.com/posthog/posthog/stargazers)  
+1. 🌟 **[PostHog](https://github.com/posthog/posthog)** [![GitHub_Stars](https://img.shields.io/github/stars/posthog/posthog?style=social&color=white)](https://github.com/posthog/posthog/stargazers)  
    *Leading open-source product analytics suite. Offers event tracking, session replay, feature flags, A/B testing, surveys, and error tracking. Self-hostable via Docker/Kubernetes.*
 
-2. 🌿 **[Umami](https://github.com/umami-software/umami)** [![GitHub stars](https://img.shields.io/github/stars/umami-software/umami?style=social&color=white)](https://github.com/umami-software/umami/stargazers)  
+2. 🌿 **[Umami](https://github.com/umami-software/umami)** [![GitHub_Stars](https://img.shields.io/github/stars/umami-software/umami?style=social&color=white)](https://github.com/umami-software/umami/stargazers)  
    *Fast, privacy-focused, lightweight open-source analytics platform built with Node.js and Next.js. Great privacy-compliant alternative to Google Analytics.*
 
-3. 🛡️ **[Matomo](https://github.com/matomo-org/matomo)** [![GitHub stars](https://img.shields.io/github/stars/matomo-org/matomo?style=social&color=white)](https://github.com/matomo-org/matomo/stargazers)  
+3. 🛡️ **[Matomo](https://github.com/matomo-org/matomo)** [![GitHub_Stars](https://img.shields.io/github/stars/matomo-org/matomo?style=social&color=white)](https://github.com/matomo-org/matomo/stargazers)  
    *Mature open-source web and product analytics platform focused on 100% data ownership, custom reporting, heatmaps, and strict GDPR compliance.*
 
-4. 🔒 **[Plausible Analytics](https://github.com/plausible/analytics)** [![GitHub stars](https://img.shields.io/github/stars/plausible/analytics?style=social&color=white)](https://github.com/plausible/analytics/stargazers)  
+4. 🔒 **[Plausible Analytics](https://github.com/plausible/analytics)** [![GitHub_Stars](https://img.shields.io/github/stars/plausible/analytics?style=social&color=white)](https://github.com/plausible/analytics/stargazers)  
    *Lightweight, open-source, cookie-free web and event analytics engine written in Elixir. Designed for privacy compliance out of the box.*
 
-5. 📹 **[OpenReplay](https://github.com/openreplay/openreplay)** [![GitHub stars](https://img.shields.io/github/stars/openreplay/openreplay?style=social&color=white)](https://github.com/openreplay/openreplay/stargazers)  
+5. 📹 **[OpenReplay](https://github.com/openreplay/openreplay)** [![GitHub_Stars](https://img.shields.io/github/stars/openreplay/openreplay?style=social&color=white)](https://github.com/openreplay/openreplay/stargazers)  
    *Self-hosted session replay and developer monitoring suite. Allows engineering teams to replay user sessions and inspect network logs/DevTools.*
 
-6. ⚡ **[Highlight.io](https://github.com/highlight/highlight)** [![GitHub stars](https://img.shields.io/github/stars/highlight/highlight?style=social&color=white)](https://github.com/highlight/highlight/stargazers)  
+6. ⚡ **[Highlight.io](https://github.com/highlight/highlight)** [![GitHub_Stars](https://img.shields.io/github/stars/highlight/highlight?style=social&color=white)](https://github.com/highlight/highlight/stargazers)  
    *Full-stack open-source application monitoring suite integrating session replay, error monitoring, performance metrics, and log management.*
 
-7. 🎛️ **[OpenPanel](https://github.com/OpenPanel-dev/openpanel)** [![GitHub stars](https://img.shields.io/github/stars/OpenPanel-dev/openpanel?style=social&color=white)](https://github.com/OpenPanel-dev/openpanel/stargazers)  
+7. 🎛️ **[OpenPanel](https://github.com/OpenPanel-dev/openpanel)** [![GitHub_Stars](https://img.shields.io/github/stars/OpenPanel-dev/openpanel?style=social&color=white)](https://github.com/OpenPanel-dev/openpanel/stargazers)  
    *Modern open-source product analytics platform designed as an open-source rival to Mixpanel and Amplitude with clean event visualization.*
 
-8. 📱 **[Countly](https://github.com/Countly/countly-server)** [![GitHub stars](https://img.shields.io/github/stars/Countly/countly-server?style=social&color=white)](https://github.com/Countly/countly-server/stargazers)  
+8. 📱 **[Countly](https://github.com/Countly/countly-server)** [![GitHub_Stars](https://img.shields.io/github/stars/Countly/countly-server?style=social&color=white)](https://github.com/Countly/countly-server/stargazers)  
    *Product analytics engine tailored for web, desktop, and mobile applications with built-in crash reporting, push notifications, and user profiling.*
 
-9. 📊 **[June](https://github.com/juneHQ/june)** [![GitHub stars](https://img.shields.io/github/stars/juneHQ/june?style=social&color=white)](https://github.com/juneHQ/june/stargazers)  
+9. 📊 **[June](https://github.com/juneHQ/june)** [![GitHub_Stars](https://img.shields.io/github/stars/juneHQ/june?style=social&color=white)](https://github.com/juneHQ/june/stargazers)  
    *Open product analytics built on top of Segment and data warehouses, optimized for B2B SaaS companies practicing Product-Led Growth (PLG).*
 
-10. 🕵️ **[Ackee](https://github.com/electerious/ackee)** [![GitHub stars](https://img.shields.io/github/stars/electerious/ackee?style=social&color=white)](https://github.com/electerious/ackee/stargazers)  
+10. 🕵️ **[Ackee](https://github.com/electerious/ackee)** [![GitHub_Stars](https://img.shields.io/github/stars/electerious/ackee?style=social&color=white)](https://github.com/electerious/ackee/stargazers)  
     *Self-hosted Node.js analytics server created for privacy-conscious web developers seeking clean aggregate traffic insights.*
 
-11. 🔍 **[HyperDX](https://github.com/hyperdxio/hyperdx)** [![GitHub stars](https://img.shields.io/github/stars/hyperdxio/hyperdx?style=social&color=white)](https://github.com/hyperdxio/hyperdx/stargazers)  
+11. 🔍 **[HyperDX](https://github.com/hyperdxio/hyperdx)** [![GitHub_Stars](https://img.shields.io/github/stars/hyperdxio/hyperdx?style=social&color=white)](https://github.com/hyperdxio/hyperdx/stargazers)  
     *Open-source developer observability and session replay platform powered by ClickHouse for ultra-fast query performance.*
 
 ---
